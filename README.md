@@ -1,3 +1,1 @@
 # example-app
-
-あああ
